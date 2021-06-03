@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd $HOME
-#install the crap i need
+#install the stuff i need
 sudo pacman -Syu -y
 sudo pacman -Syu yay -y
 sudo pacman -Syu gtk2 -y
