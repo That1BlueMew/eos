@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#not been tested yet so don't use it
+
 cd $HOME
 #install the stuff i need
 sudo pacman -Syu -y
